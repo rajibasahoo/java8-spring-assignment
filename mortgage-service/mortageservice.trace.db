@@ -1,0 +1,3 @@
+2019-03-22 13:47:29 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Table "MORTAGE_RATE" not found; SQL statement:
+insert into mortage_rate(id,maturity_period,interest_rate) values(1,5,12) [42102-197]
